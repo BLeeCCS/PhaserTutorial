@@ -1,0 +1,24 @@
+{
+  "name": "phasertutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLeeCCS/PhaserTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLeeCCS/PhaserTutorial/issues"
+  },
+  "homepage": "https://github.com/BLeeCCS/PhaserTutorial#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "phaser": "^3.50.1"
+  }
+}
